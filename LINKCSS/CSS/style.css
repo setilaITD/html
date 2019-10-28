@@ -1,0 +1,23 @@
+img{
+	width:90px;
+	height:90px;
+}
+#first {	
+	color: blue;
+}
+#second{
+	color: tomato;
+}
+.green{
+	color: green;
+
+}
+.class1,.class2{
+	color: purple;
+}
+a:hover{
+	color: brown;
+	border:5px solid gray;
+	border-radius: 5px;
+	background-color: gray;
+}
